@@ -1,0 +1,3 @@
+- Click Start button and select multiple pictures.
+- After selection the pictures will be rendered to the sheet along with their details.
+- Click Clear button to clear all contents.
